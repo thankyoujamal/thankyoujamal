@@ -25,7 +25,7 @@ MCA graduate and Software Engineer Intern passionate about developing software a
 - Online E-Book Store – Java, MySQL, HTML, CSS, JavaScript
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/mdjamal-uddin
+- LinkedIn: www.linkedin.com/in/mdjamal-uddin
 - GitHub: https://github.com/thankyoujamal
 - portfolio: https://mohammad-jamal-uddin.onrender.com/
 - Email: ujamal850201@gail.com
