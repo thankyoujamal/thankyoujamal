@@ -26,6 +26,5 @@ MCA graduate and Software Engineer Intern passionate about developing software a
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/mdjamal-uddin
-- GitHub: github.com/thankyoujamal
 - portfolio: https://mohammad-jamal-uddin.onrender.com/
 - Email: ujamal850201@gail.com
